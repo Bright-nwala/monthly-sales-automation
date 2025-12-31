@@ -1,12 +1,12 @@
 import os
 
-EMAIL_USER = "apulse05@gmail.com" # company mail receipient of raw data from three outlet
+EMAIL_USER = "nwalabrightcz@gmail.com" # company mail receipient of raw data from three outlet
 EMAIL_PASSWORD = os.environ.get("EMAIL_PASSWORD")
 IMAP_SERVER = "imap.gmail.com"
 
 OUTLET_EMAILS = [
     "ziezup@yahoo.com", # outlet mails
-    "nwalabrightcz@gmail.com",
+    "apulse05@gmail.com",
     "brightnwala@proton.me"
 ]
 
